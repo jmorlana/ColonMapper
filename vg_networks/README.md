@@ -1,0 +1,1 @@
+Code under vg_networks comes from the framework of G. Berton: https://github.com/gmberton/deep-visual-geo-localization-benchmark
